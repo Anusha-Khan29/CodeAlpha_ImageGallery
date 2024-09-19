@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Gallery } from './gallery';
+import { Gallery } from 'C:\Users\D E L L\Desktop\vs code\React\image-gallery\src\gallery.jsx';
 import "./styles.css";
 
 function App() {
